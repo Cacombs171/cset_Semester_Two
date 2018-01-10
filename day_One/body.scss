@@ -28,3 +28,44 @@
 .description{
   margin-top: 10px;
 }
+
+.date{
+  font-size: 12px;
+}
+
+.date_Week{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.languages{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.knowns{
+  text-align: center;
+  margin-top: -230px;
+}
+
+.down_Bar_Two{
+  background-color: #800000;
+  height: 275px;
+  width: 2px;
+  margin-left: 50px;
+  margin-top: -220px;
+}
+
+.down_Bar_Three{
+  background-color: #800000;
+  height: 275px;
+  width: 2px;
+  margin-left: 350px;
+}
+
+.master_Container{
+  padding: 3%;
+  width: 94%;
+  display: flex;
+  justify-content: space-between;
+}
